@@ -61,4 +61,4 @@ fig.update_layout(title='Overall statistics of COVID19 in Spain',
                       type="date"),
                   hovermode='y unified')
 
-fig.show()
+fig.write_html('overall_data.html')

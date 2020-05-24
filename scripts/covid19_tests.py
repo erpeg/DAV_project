@@ -54,4 +54,4 @@ fig.update_layout(title='Share of testing methods in Spain',
                       type="date"),
                   hovermode='y unified')
 
-fig.write_html('tests.html')
+fig.write_html('covid19_tests.html')
